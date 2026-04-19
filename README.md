@@ -9,4 +9,4 @@ To run the project, download and unzip the `CS 465 Final.zip` file, then open th
 
 Current Project file last updated (April 18th)
 
-Checkpoint 1 video: https://youtu.be/QLX-3oJObMw (no audio, `Checkpoint 1 Current Project Status and Future.pdf` has my current thoughts and progrss on my project)
+Checkpoint 1 video: https://youtu.be/QLX-3oJObMw (The video has no audio unfortunately, `Checkpoint 1 Current Project Status and Future.pdf` dicusses my current state and future plans)
