@@ -8,3 +8,5 @@ https://drive.google.com/drive/folders/1K1gQL_6NOjh0oplPliKbwge2pB5eeUNG?usp=sha
 To run the project, download and unzip the `CS 465 Final.zip` file, then open through unity hub.
 
 Current Project file last updated (April 18th)
+
+Checkpoint 1 video: https://youtu.be/QLX-3oJObMw
