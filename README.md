@@ -1,6 +1,3 @@
 # SP26-Team-Methodize
 
-
-Future project iterations will be ubity builds instead of large project files.
-
-Check my checkpoint 2 wiki page for videos and instructions [link will be here at some point]
+Check my [wiki](https://github.com/csu-hci-projects/SP26-Team-Methodize/wiki) for information reagarding project status, videos, paper progress, and more!
