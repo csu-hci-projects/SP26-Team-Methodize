@@ -1,12 +1,9 @@
 # SP26-Team-Methodize
 
 
-Due to github file size limitations, the project will be stored in this drive link:
+Future project iterations will be ubity builds instead of large project files.
 
-https://drive.google.com/drive/folders/1K1gQL_6NOjh0oplPliKbwge2pB5eeUNG?usp=sharing
+Check my checkpoint 2 wiki page for videos and instructions [link will be here at some point]
 
-To run the project, download and unzip the `CS 465 Final.zip` file, then open through unity hub.
-
-Current Project file last updated (April 18th)
 
 Checkpoint 1 video: https://youtu.be/QLX-3oJObMw (The video has no audio unfortunately, `Checkpoint 1 Current Project Status and Future.pdf` dicusses my current state and future plans)
